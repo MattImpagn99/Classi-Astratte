@@ -1,0 +1,12 @@
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.csprojResolveAssemblyReference.cache
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\bin\Debug\Tassonomia_e_Interfaccie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\Tassonomia_e_Interfaccie\Tassonomia_e_Interfaccie\obj\Debug\Tassonomia_e_Interfaccie.csprojResolveAssemblyReference.cache
