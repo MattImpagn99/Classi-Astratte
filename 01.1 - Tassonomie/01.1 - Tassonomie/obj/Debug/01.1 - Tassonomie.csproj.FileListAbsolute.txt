@@ -1,0 +1,19 @@
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe.config
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe.config
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.csprojResolveAssemblyReference.cache
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.pdb
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.csprojResolveAssemblyReference.cache
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe.config
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.exe
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\bin\Debug\01.1 - Tassonomie.pdb
+C:\Users\Ospite\Desktop\MATTEO\Scuola\Programmazione\programmazione\4I1\5.ClassiAstratte\Progetto2\01.1 - Tassonomie\01.1 - Tassonomie\obj\Debug\01.1 - Tassonomie.csprojResolveAssemblyReference.cache
